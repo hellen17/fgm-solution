@@ -1,0 +1,13 @@
+{
+    "name": "Fgm survey",
+    "description": "Solution to create awareness on FGM",
+    "port": 3000,
+    "authentication": {
+        "username": "",
+        "apiKey": ""
+    
+    }
+
+}
+
+
